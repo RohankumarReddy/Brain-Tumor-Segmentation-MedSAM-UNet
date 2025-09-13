@@ -31,13 +31,4 @@ This repository contains code and resources for 3D brain tumor segmentation usin
 - Patient-wise inference with segmentation outputs
 - Optional integration with **MedSAM** for prompt-based segmentation
 
----
 
-## 🛠️ Installation
-
-```bash
-git clone https://github.com/your-username/Brain-Tumor-Segmentation-MONAI-UNet.git
-cd Brain-Tumor-Segmentation-MONAI-UNet
-
-# Create environment
-pip install -r requirements.txt
